@@ -1,0 +1,8 @@
+E:\2nd Semester\C#\Practicals\Practical 04\Q1\Q1\bin\Debug\Q1.exe.config
+E:\2nd Semester\C#\Practicals\Practical 04\Q1\Q1\bin\Debug\Q1.exe
+E:\2nd Semester\C#\Practicals\Practical 04\Q1\Q1\bin\Debug\Q1.pdb
+E:\2nd Semester\C#\Practicals\Practical 04\Q1\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+E:\2nd Semester\C#\Practicals\Practical 04\Q1\Q1\obj\Debug\Q1.csproj.SuggestedBindingRedirects.cache
+E:\2nd Semester\C#\Practicals\Practical 04\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\2nd Semester\C#\Practicals\Practical 04\Q1\Q1\obj\Debug\Q1.exe
+E:\2nd Semester\C#\Practicals\Practical 04\Q1\Q1\obj\Debug\Q1.pdb
